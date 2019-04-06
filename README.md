@@ -1,4 +1,4 @@
-# data_structure
+# Data_structure
 data-structure practice
 
 # List of used data_structure
