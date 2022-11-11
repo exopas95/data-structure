@@ -1,7 +1,6 @@
-# Data_structure
-data-structure practice
+# Data Structure
 
-# List of used data_structure
+# Contents
 1. Unsorted Array List
 2. Sorted Array List
 3. Stack & Queue
